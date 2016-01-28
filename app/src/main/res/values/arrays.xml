@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="expired_array" >
+        <item>1 день</item>
+        <item>1 месяц</item>
+        <item>1 год</item>
+    </string-array>
+</resources>

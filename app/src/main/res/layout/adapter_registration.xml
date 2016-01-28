@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:layout_margin="8dp">
+
+    <TextView
+        android:id="@+id/medicine_name"
+        android:layout_width="wrap_content"
+        android:layout_height="64dp"
+        android:layout_marginTop="5dp"
+        android:textSize="16sp"
+        android:text="asdas"
+        android:layout_weight="0.99">
+    </TextView>
+    <Button
+        android:id="@+id/buttonEdit"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_weight="0.01"
+        android:background="@android:drawable/ic_menu_edit" />
+
+</LinearLayout>

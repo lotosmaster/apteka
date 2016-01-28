@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lab</string>
+    <string-array name="categories_array">
+        <item>Урология</item>
+        <item>Хирургия</item>
+        <item>Неврология, психиатрия</item>
+        <item>Гастроэнтерология</item>
+        <item>Инфекционные болезни</item>
+        <item>Дерматология</item>
+        <item>Педиатрия</item>
+        <item>Пульмонология</item>
+        <item>Аллергология</item>
+        <item>Ревматология</item>
+        <item>Кардиология</item>
+        <item>Терапия</item>
+        <item>Травматология</item>
+        <item>Акушерство</item>
+        <item>Гинекология</item>
+        <item>Офтальмология</item>
+        <item>Оториноларингология</item>
+        <item>Гомеопатия</item>
+    </string-array>
+    <string name="title_activity_update">UpdateActivity</string>
+</resources>
